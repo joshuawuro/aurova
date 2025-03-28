@@ -59,8 +59,7 @@ function Hero() {
             Contact me <BsSend className="inline-block ml-2" />
           </a> */}
           <a
-            href="https://drive.google.com/file/d/1C_xtJQwSutnvUjOtyBZ25k1_NBESkoYm/view?usp=sharing" // Replace with the actual resume link
-            download
+            href="https://drive.google.com/file/d/1woYbiN6V50HwKBBv9Bf2d-J2TmjMwH0p/view?usp=sharing"
             target="_blank"
             className="bg-transparent border-2 border-lemon text-lemon px-2 md:px-5 py-3 rounded-lg shadow-lg hover:bg-lemon hover:text-black transition-all"
             data-aos="fade-up"

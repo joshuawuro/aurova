@@ -25,14 +25,14 @@ export default function TestimonialSlider() {
             }`}
           >
             <div className="w-2/3 p-6 pr-12 bg-lemon text-gray rounded-lg text-sm opacity-90">
-              <p className="font-bold text-lg">{item.text}</p>
+              <p className="font-bold text-sm">{item.text}</p>
               <p className="italic mt-2 text-gray/70">{item.name}</p>
               <p className="text-xs text-gray/70">{item.role}</p>
             </div>
             <img
               src={item.img}
               alt={item.name}
-              className="absolute -right-10 w-60 h-60 rounded-full object-cover -translate-x-6"
+              className="absolute -right-10 w-40 h-40 md:w-60 md:h-60 rounded-full object-cover -translate-x-6"
             />
           </div>
         ))}
