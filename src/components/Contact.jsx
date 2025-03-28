@@ -3,7 +3,7 @@ import "../Styles/wave.css";
 
 const Contact = () => {
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen text-center p-4 lg:mt-10">
+    <div className="flex flex-col items-center justify-center text-center p-4 lg:mt-10">
       <p className="text-lemon font-semibold uppercase">
         Say Hello
         <span className="wavy-hand">👋</span>
