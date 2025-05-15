@@ -4,13 +4,13 @@ import colorgame from "../assets/colorgame.png";
 const projectData = [
   {
     id: 1,
-    title: "Institue of Progresive Governance",
+    title: "Africa Policy Lens",
     description:
       "A website for a political party in Nigeria. The website is built with React, Astro and TailwindCSS.",
     year: "2024",
     image: IPG,
     tags: ["REACT", "ASTRO", "TAILWINDCSS"],
-    link: "https://development--ipgghana.netlify.app/",
+    link: "https://africapolicylens.com/",
     animate: "fade-right",
     animatespeed: "1000",
   },
