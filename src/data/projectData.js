@@ -21,7 +21,7 @@ const projectData = [
     description:
       "A group of vibrant you individuals dedication their morning the praising their maker",
     year: "2024",
-    image: IPG,
+    image: theyarImage,
     tags: ["REACT", "TAILWINDCSS"],
     link: "https://theyar.vercel.app/",
     animate: "fade-left",
