@@ -16,6 +16,18 @@ const projectData = [
   },
   {
     id: 2,
+    title: "Young and Ready Dawn Prayers",
+    description:
+      "A group of vibrant you individuals dedication their morning the praising their maker",
+    year: "2024",
+    image: IPG,
+    tags: ["REACT", "TAILWINDCSS"],
+    link: "https://theyar.vercel.app/",
+    animate: "fade-left",
+    animatespeed: "1000",
+  },
+  {
+    id: 3,
     title: "Color Game",
     description:
       "A website for a political party in Nigeria. The website is built with React, Astro and TailwindCSS.",
