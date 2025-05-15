@@ -1,4 +1,5 @@
 import IPG from "../assets/IPG.png";
+import theyarImage from "../assets/theYarImage.jpg"
 import colorgame from "../assets/colorgame.png";
 
 const projectData = [
